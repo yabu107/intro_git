@@ -10,3 +10,7 @@ git commit
 git rm
 
 git status
+
+git log
+
+git diff
